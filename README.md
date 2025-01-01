@@ -1,4 +1,4 @@
 # COSMIC-PULSES
-"Sound Architecture Machine"-Explore The Interactive Relationship Between Sound, Human Activities And Architecture
+"Sound Architecture Machine"-Explore the Interactive Relationship between Sound, Human Activities and Architecture
 
 
