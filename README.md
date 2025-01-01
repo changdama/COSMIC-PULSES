@@ -9,3 +9,13 @@ Why human beings need to move in architecture space, they need a purpose to pull
 ## Sound Selected ##
 ### Stackhausen's piece "COSMIC PULSES" ###
 *Cosmic Pulses* is the 13th "hour" of Stockhausen's originally-planned 24-part cycle KLANG ("SOUND") which is based on the 24 hours of the day. Thiselectronic work is composed of 24 layers of synthesizer-generated melodic material, with each layer having a different speed and pitch register. The layers enter one by one, starting from the lowest/slowest layer, and go up in sequence to the highest/fastest layer.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="Fig/1.jpg" alt="Image 1" style="height: 230px; margin: 10px;">
+  <img src="Fig/2.jpg" alt="Image 2" style="height: 230px; margin: 10px;">
+  <img src="Fig/3.jpg" alt="Image 3" style="height: 230px; margin: 10px;">
+</div>
+
+### ECOACOUSTICS ###
+Ecoacoustics is an interdisciplinary science that investigates natural and anthropogenic sounds and their relationship with the environment over a wide range of study scales, both spatial and temporal, including populations, communities, and landscapes. Ecoacoustics operates in all types of terrestrial and aquatic (freshwater and marine) ecosystems.
+
