@@ -1,2 +1,4 @@
 # COSMIC-PULSES
-Space-Perception-Ambient
+"Sound Architecture Machine"-Explore The Interactive Relationship Between Sound, Human Activities And Architecture
+
+
