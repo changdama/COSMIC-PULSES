@@ -33,6 +33,7 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 - Time Interval between each sounds is according to the Fibonacci Series
           
 **Result**: The result is a creation of a unique soundmachine in each combination
+
 ![Image 2](Fig/5.jpg)
 
 
