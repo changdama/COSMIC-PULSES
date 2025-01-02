@@ -36,4 +36,9 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 
 ![Image 2](Fig/5.jpg)
 
+### Sound Machine Operation System for One Track ###
+
+[![video](https://img.youtube.com/vi/nUKnF9qUxz4/0.jpg)](https://youtu.be/nUKnF9qUxz4)
+
+
 
