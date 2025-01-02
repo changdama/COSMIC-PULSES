@@ -38,7 +38,9 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 
 ### Sound Machine Operation System for One Track ###
 
-[![video](https://img.youtube.com/vi/nUKnF9qUxz4/0.jpg)](https://youtu.be/nUKnF9qUxz4)
+<a href="https://youtu.be/nUKnF9qUxz4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/nUKnF9qUxz4/maxresdefault.jpg" width="1080" alt="Video Title: Sound Machine Operation System for One Track" class="off-glb">
+</a>
 
 
 
