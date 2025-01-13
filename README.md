@@ -61,7 +61,7 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
    sounds will be paired with bass parts with lower pitches and longer notes. In contrast, the samples of summer night insects are paired with an arpeggiator, which can light up the whole section. All the notes or chords only change when the sound machine switches to a
    new sample.
   
-   [Image 8](Fig/8.jpg)
+   ![Image 8](Fig/8.png)
 
      Besides, instrumental parts from each category use different scales. However, to ensure natural transition when approaching sound machines from a different category, and a harmonious overall effect, the scales are closely related to each other: g natural minor 
    for Biophony, F major for Anthrophony, bB major for Geophony. This consideration mainly roots from our vision of harmonious coexistence between human and nature.
