@@ -138,9 +138,21 @@ For interaction with people, as the person gets closer to the speaker, the sound
     <img src="https://img.youtube.com/vi/ZghR3tHnoEg/maxresdefault.jpg" width="1808" alt="Video Title: Overall interaction with sound machines, people and space">
 </a>
 
-- **Interaction Engine**
-  1. **Download the File**
-     
-     Go to the [Unity](Unity) and download `Spatialize.exe`.
+- **Unity Interaction**
+  - Project Structure
+    - ```.vscode```:Configuration files for the Visual Studio Code editor.
+    - ``` Assets```:The core folder of the project, containing all resources (models, scripts, materials)
+    - ```Packages```: Configuration files for the Unity Package Manager.
+    - ```ProjectSettings```: Configuration files for project settings.
 
+  - Requirements
+    
+    ![Unity Version](https://img.shields.io/badge/Unity-2022.3.15f1%20or%20higher-blue?logo=unity&style=flat-square)
+    ![Visual Studio 2022](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple?logo=visualstudiocode&style=flat-square)
 
+  - Start
+    - Using Git:
+       -  ```git clone https://github.com/changdama/COSMIC-PULSES.git```
+    - Download ZIP
+
+  
