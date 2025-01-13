@@ -21,7 +21,7 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 
 ![Image 4](Fig/4.jpg)
 
-## SOUND MACHINE PRINCIPLES 1 ##
+## SOUND MACHINE PRINCIPLE 1 ##
 ### Description ###
 **Players**: 24 Different Sounds, 8 from each of 3 categories- Anthro, Bio &Geophony
 
@@ -68,7 +68,7 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
      Besides, instrumental parts from each category use different scales. However, to ensure natural transition when approaching sound machines from a different category, and a harmonious overall effect, the scales are closely related to each other: g natural minor 
    for Biophony, F major for Anthrophony, bB major for Geophony. This consideration mainly roots from our vision of harmonious coexistence between human and nature.
 
-## SOUND MACHINE PRINCIPLES 2 ##
+## SOUND MACHINE PRINCIPLE 2 ##
 ### Description  ###
 **Players**: 8 different sound machines.
 
