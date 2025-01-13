@@ -154,7 +154,7 @@ For interaction with people, as the person gets closer to the speaker, the sound
     - Using Git:
        -  ```git clone https://github.com/changdama/COSMIC-PULSES.git```
     - Download ZIP
-    - Open Unity Hub, Click ```Add```and navigate to the folder containing this project, and Select the project and click Open
+    - Open Unity Hub, Click ```Add```and navigate to the folder containing this project, and Select the project and click ```Open```
 
   
     
