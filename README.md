@@ -10,4 +10,30 @@ Why human beings need to move in architecture space, they need a purpose to pull
 ### Stackhausen's piece "COSMIC PULSES" ###
 *Cosmic Pulses* is the 13th "hour" of Stockhausen's originally-planned 24-part cycle KLANG ("SOUND") which is based on the 24 hours of the day. Thiselectronic work is composed of 24 layers of synthesizer-generated melodic material, with each layer having a different speed and pitch register. The layers enter one by one, starting from the lowest/slowest layer, and go up in sequence to the highest/fastest layer.
 
-![Image1](Fig/1/pieces/RMS%20Score.png)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="Fig/1.jpg" alt="Image 1" style="height: 250px; margin: 10px;">
+  <img src="Fig/2.jpg" alt="Image 2" style="height: 250px; margin: 10px;">
+
+</div>
+
+### ECOACOUSTICS ###
+Ecoacoustics is an interdisciplinary science that investigates natural and anthropogenic sounds and their relationship with the environment over a wide range of study scales, both spatial and temporal, including populations, communities, and landscapes. Ecoacoustics operates in all types of terrestrial and aquatic (freshwater and marine) ecosystems.
+
+![Image 4](Fig/4.jpg)
+
+## SOUND MACHINE PRINCIPLES ##
+### Rule 1 ###
+**Players**: 24 Different Sounds, 8 from each of 3 categories- Anthro, Bio &Geophony
+
+**Gameboard**: Wheel with 3 Concentric Rings of Different Sounds
+
+**Rule**: 
+- Play of 24 sounds in different combinations
+- 8 sounds in 3 layers playing in random orders but fixed time intervals
+- Time Interval between each sounds is according to the Fibonacci Series
+
+**Result**: The result is a creation of a unique soundmachine in each combination
+
+![Image 2](Fig/5.jpg)
+
+
