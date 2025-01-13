@@ -141,6 +141,6 @@ For interaction with people, as the person gets closer to the speaker, the sound
 - **Interaction Engine**
   1. **Download the File**
      
-     Go to the [Releases](https://github.com/your-repo-name/your-project/releases) page and download `yourfile.exe`.
+     Go to the [Unity](Unity) and download `Spatialize.exe`.
 
 
