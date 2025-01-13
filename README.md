@@ -38,12 +38,14 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 
 ### Sound Machine Operation System for One Track ###
 
+🎥 [Watch the Video](https://youtu.be/nUKnF9qUxz4)
 <a href="https://youtu.be/nUKnF9qUxz4" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/nUKnF9qUxz4/maxresdefault.jpg" width="1080" alt="Video Title: Sound Machine Operation System for One Track" class="off-glb">
 </a>
 
 ### Sound Machine Operation System for Three Tracks ###
 
+🎥 [Watch the Video](https://youtu.be/tRV6zZAlcw8)
 <a href="https://youtu.be/tRV6zZAlcw8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/tRV6zZAlcw8/maxresdefault.jpg" width="1080" alt="Video Title: Sound Machine Operation System for Three Tracks" class="off-glb">
 </a>
@@ -107,3 +109,29 @@ Dissecting the medium into 24 layers and exploring the iterations of different m
 The wave forms of Sound Machines are analysed at different time periods to visualise the frequency and displacement. They are then subjected to a box with a medium and targeted with a point source of sound in different positions. The final diagrams are the visualisations of these sound machines interacting with the medium and each other.(Take "SAME TIME PERIOD POSITIONS: TOP 4 MACHINES IN –X DIRECTION, BOTTOM 4 MACHINES IN +X DIRECTION" as an example)
 
 ![Image 13](Fig/13.jpg)
+
+## SOUND MACHINES, PEOPLE AND SPACE INTERACTION ##
+
+### Description of each interactive factors ###
+
+The interactive envionmenet is built in Unity, envisioning it as a medium. Sound, people and medium are interacted with each other. Based on two principles, We put eight "sound machines"，they make rotating sounds through their respective black sound speakers.
+
+![Image 14](Fig/14.jpg)
+
+### Interaction With Person ###
+
+For interaction with people, as the person gets closer to the speaker, the sound gets progressively louder and the spatial lines produced in the medium get denser; the further the person gets away from the speaker, the sound gets progressively smaller and the spatial lines produced in the medium get sparse.
+
+🎥 [Watch the Video](https://youtu.be/sT-rtZVndSU)
+
+<a href="https://youtu.be/sT-rtZVndSU" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/sT-rtZVndSU/maxresdefault.jpg" width="1808" alt="Video Title: Sound Machine Interacted With Person">
+</a>
+
+### Overall Interaction ###
+
+🎥 [Watch the Video](https://youtu.be/ZghR3tHnoEg)
+
+<a href="https://youtu.be/ZghR3tHnoEg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/ZghR3tHnoEg/maxresdefault.jpg" width="1808" alt="Video Title: Overall interaction with sound machines, people and space">
+</a>
