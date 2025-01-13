@@ -96,7 +96,7 @@ For the effects in the medium, The sound generates spatial lines in the medium o
 
 **Sound Waves of Different Sound Machines**: 
 
-[Image 11](Fig/11.jpg)
+![Image 11](Fig/11.jpg)
 
 **Sound Machines Movement**:
 
