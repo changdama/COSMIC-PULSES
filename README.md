@@ -16,7 +16,7 @@ Why human beings need to move in architecture space, they need a purpose to pull
 
 </div>
 
-### ECOACOUSTICS ###
+### Ecoacoustics ###
 Ecoacoustics is an interdisciplinary science that investigates natural and anthropogenic sounds and their relationship with the environment over a wide range of study scales, both spatial and temporal, including populations, communities, and landscapes. Ecoacoustics operates in all types of terrestrial and aquatic (freshwater and marine) ecosystems.
 
 ![Image 4](Fig/4.jpg)
@@ -79,6 +79,31 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 
 **Result**: The result is a creation of a interactive soundscape relative to position.
 
+### Effect of One Sound Machine in Medium
+For the effects in the medium, The sound generates spatial lines in the medium of unity, and as the sound travels through the medium, the sparsity of the spatial lines changes，which like sound creates ripples in the water.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="Fig/9.gif" alt="Image 9" style="height: 200px; margin: 10px;">
+  <img src="Fig/10.gif" alt="Image 10" style="height: 200px; margin: 10px;">
+
+</div>
+
 ### SOUNDSCAPE: SOUND MACHINES IN MEDIUM ###
 
 ![Image 4](Fig/7.jpg)
+
+### Section of Sound Machines in Soundscape  ###
+
+**Sound Waves of Different Sound Machines**: 
+
+[Image 11](Fig/11.jpg)
+
+**Sound Machines Movement**:
+
+Dissecting the medium into 24 layers and exploring the iterations of different movements and across different time periods.
+
+![Image 12](Fig/12.jpg)
+
+The wave forms of Sound Machines are analysed at different time periods to visualise the frequency and displacement. They are then subjected to a box with a medium and targeted with a point source of sound in different positions. The final diagrams are the visualisations of these sound machines interacting with the medium and each other.(Take "SAME TIME PERIOD POSITIONS: TOP 4 MACHINES IN –X DIRECTION, BOTTOM 4 MACHINES IN +X DIRECTION" as an example)
+
+![Image 13](Fig/13.jpg)
