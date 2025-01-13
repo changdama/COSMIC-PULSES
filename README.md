@@ -21,8 +21,8 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 
 ![Image 4](Fig/4.jpg)
 
-## SOUND MACHINE PRINCIPLES ##
-### Rule 1 ###
+## SOUND MACHINE PRINCIPLES 1 ##
+### Description ###
 **Players**: 24 Different Sounds, 8 from each of 3 categories- Anthro, Bio &Geophony
 
 **Gameboard**: Wheel with 3 Concentric Rings of Different Sounds
@@ -32,8 +32,53 @@ Ecoacoustics is an interdisciplinary science that investigates natural and anthr
 - 8 sounds in 3 layers playing in random orders but fixed time intervals
 - Time Interval between each sounds is according to the Fibonacci Series
 
-**Result**: The result is a creation of a unique soundmachine in each combination
+**Result**: The result is a creation of a unique sound machine in each combination
 
 ![Image 2](Fig/5.jpg)
 
+### Sound Machine Operation System for One Track ###
 
+<a href="https://youtu.be/nUKnF9qUxz4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/nUKnF9qUxz4/maxresdefault.jpg" width="1080" alt="Video Title: Sound Machine Operation System for One Track" class="off-glb">
+</a>
+
+### Sound Machine Operation System for Three Tracks ###
+
+<a href="https://youtu.be/tRV6zZAlcw8" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/tRV6zZAlcw8/maxresdefault.jpg" width="1080" alt="Video Title: Sound Machine Operation System for Three Tracks" class="off-glb">
+</a>
+
+- **Improvisation**
+  
+  Another max patch is added to randomly change the thresholds of the low shelf gain, mid gain, and high shelf gain of each group of voices to enrich the "sound machine" effect by improvising the control of the three low shelf gain, mid gain, and high shelf 
+  buttons on the spot to randomize the thresholds of the voices.
+
+  ![Image 3](Fig/6.jpg)
+
+- **Sound-optimized design**
+
+     Each category has a bass part, an arpeggiator, and a synth playing backup chords。Each sound machine contains one of them. The selection of instruments will be as complementary as possible to the samples. For example, bird samples with higher pitches and denser 
+   sounds will be paired with bass parts with lower pitches and longer notes. In contrast, the samples of summer night insects are paired with an arpeggiator, which can light up the whole section. All the notes or chords only change when the sound machine switches to a
+   new sample.
+  
+   [Image 8](Fig/8.jpg)
+
+     Besides, instrumental parts from each category use different scales. However, to ensure natural transition when approaching sound machines from a different category, and a harmonious overall effect, the scales are closely related to each other: g natural minor 
+   for Biophony, F major for Anthrophony, bB major for Geophony. This consideration mainly roots from our vision of harmonious coexistence between human and nature.
+
+## SOUND MACHINE PRINCIPLES 2 ##
+### Description  ###
+**Players**: 8 different sound machines.
+
+**Gameboard**: Box with a medium divided into 24 layers.
+
+**Rules**: 
+- Play of 8 different sound machines in different combinations & positions.
+- Movement in positive & negative X direction.
+- Movement in positive & negative Y direction.
+
+**Result**: The result is a creation of a interactive soundscape relative to position.
+
+### SOUNDSCAPE: SOUND MACHINES IN MEDIUM ###
+
+![Image 4](Fig/7.jpg)
