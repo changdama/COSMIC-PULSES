@@ -8,7 +8,7 @@ public class AudioControlledParticles : MonoBehaviour
     private ParticleSystem particleSystem;
     private ParticleSystem.EmissionModule emissionModule;
 
-    public float maxEmissionRate = 1000f; // 根据需要调整最大发射率
+    public float maxEmissionRate = 1000f; 
 
     void Start()
     {
@@ -19,7 +19,7 @@ public class AudioControlledParticles : MonoBehaviour
 
     void Update()
     {
-        // 将音量映射到发射率
+       
         float emissionRate = Mathf.Lerp(0, maxEmissionRate, audioSource.volume);
         emissionModule.rateOverTime = emissionRate;
     }
