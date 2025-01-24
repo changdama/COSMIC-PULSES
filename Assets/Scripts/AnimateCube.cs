@@ -7,7 +7,7 @@ public class AnimateCube : MonoBehaviour
 {
     float randomTime;
     float randomHeight;
-    Vector3[] circlePath; // ´æ´¢Ô²ÐÎÂ·¾¶µÄµã
+    Vector3[] circlePath; 
 
     // Start is called before the first frame update
     void Start()
@@ -30,14 +30,14 @@ public class AnimateCube : MonoBehaviour
 
     void InitializeCirclePath()
     {
-        int points = 20; // Ô²ÐÎÂ·¾¶µÄµãÊý
+        int points = 20;
         circlePath = new Vector3[points];
-        float angleStep = 360f / points; // Ã¿¸öµãÖ®¼äµÄ½Ç¶È
+        float angleStep = 360f / points; 
 
         for (int i = 0; i < points; i++)
         {
-            float angle = i * angleStep * Mathf.Deg2Rad; // ½«½Ç¶È×ª»»Îª»¡¶È
-            circlePath[i] = new Vector3(Mathf.Cos(angle) * 2f, 0f, Mathf.Sin(angle) * 2f); // ¼ÙÉèÔ²µÄ°ë¾¶Îª2
+            float angle = i * angleStep * Mathf.Deg2Rad;
+            circlePath[i] = new Vector3(Mathf.Cos(angle) * 2f, 0f, Mathf.Sin(angle) * 2f); // å‡è®¾åœ†çš„åŠå¾„ä¸º2
         }
     }
 
