@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 12f;
     public float movementSpeed = 5f;
-    public float verticalSpeed = 5f; // 控制上下移动的速度
+    public float verticalSpeed = 5f; 
 
     // Update is called once per frame
     void Update()
@@ -20,18 +20,18 @@ public class PlayerMovement : MonoBehaviour
 
         controller.Move(move * speed * Time.deltaTime);
 
-        // 上下移动
+  
         float moveUpwards = 0f;
         if (Input.GetKey(KeyCode.Q))
         {
-            moveUpwards = -verticalSpeed * Time.deltaTime; // 向下移动
+            moveUpwards = -verticalSpeed * Time.deltaTime;
         }
         else if (Input.GetKey(KeyCode.E))
         {
-            moveUpwards = verticalSpeed * Time.deltaTime; // 向上移动
+            moveUpwards = verticalSpeed * Time.deltaTime; 
         }
 
-        // 应用上下移动
+   
         controller.Move(new Vector3(0, moveUpwards, 0));
 
 
