@@ -133,6 +133,9 @@ For interaction with people, as the person gets closer to the speaker, the sound
 - **Video** 
 
   🎥 [Watch the Video](https://youtu.be/ZghR3tHnoEg)
+  
+  🎬 [![Watch the video](https://github.com/changdama/COSMIC-PULSES/raw/main/preview.jpg)](https://github.com/changdama/COSMIC-PULSES/raw/main/Overall%20interaction%20with%20sound%20machines,%20people%20and%20space.mp4)
+
 
   <a href="https://youtu.be/ZghR3tHnoEg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/ZghR3tHnoEg/maxresdefault.jpg" width="1808" alt="Video Title: Overall interaction with sound machines, people and space">
